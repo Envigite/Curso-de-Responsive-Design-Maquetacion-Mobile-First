@@ -128,7 +128,6 @@ main{
 }
 .main-tables-container{
     display: flex;
-    justify-content: center;
     gap: 50px;
     height: 400px;
     overflow-x: scroll;
